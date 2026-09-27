@@ -1,0 +1,21 @@
+import random
+import pygame
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+
+FPS = 60
+
+OBJECT_SIZE = (50, 50)
+
+BUTTON_BG_COLOR = (30, 215, 96)
+TEXT_COLOR = (0, 0, 0)
+
+VERTICAL_PADDING = 70
+HORIZONTAL_PADDING = 100
+
+BUTTON_SIZE = (200, 70)  # Tuple - тип данных .Круглые скобочки
+
+TEXT_SIZE = 40
+TEXT_PADDING_V= 20
+TEXT_PADDING_H= 60
